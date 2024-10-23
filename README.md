@@ -1,8 +1,12 @@
-## Movie_recommendation System
+## Movie recommendation system
 
-# Creating a Recommender System to show personalized movie recommendations based on ratings given by a user and other users similar to them in order to improve user experience.
+## Goal
+The goal of this project is to create a personalized movie recommendation system that suggests movies to users based on the ratings they provide and the preferences of other similar users. The system aims to enhance the user experience by providing relevant movie recommendations through collaborative filtering techniques, utilizing both item-based and user-based approaches.
 
-# Summary of Movie Recommendation System
+
+### Creating a Recommender System to show personalized movie recommendations based on ratings given by a user and other users similar to them in order to improve user experience.
+
+#### Summary of Movie Recommendation System
 
 1. **Loading and Preprocessing Movie Data:**
    - The **movies** dataset was loaded, and the **genres** column was split into individual genres for each movie.
