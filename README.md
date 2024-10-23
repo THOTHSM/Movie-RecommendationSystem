@@ -1,6 +1,8 @@
-Creating a Recommender System to show personalized movie recommendations based on ratings given by a user and other users similar to them in order to improve user experience.
+## Movie_recommendation System
 
-Summary of Movie Recommendation System
+# Creating a Recommender System to show personalized movie recommendations based on ratings given by a user and other users similar to them in order to improve user experience.
+
+# Summary of Movie Recommendation System
 
 1. **Loading and Preprocessing Movie Data:**
    - The **movies** dataset was loaded, and the **genres** column was split into individual genres for each movie.
